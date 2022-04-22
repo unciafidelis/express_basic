@@ -1,0 +1,22 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "Intro to Express with Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unciafidelis/express_basic.git"
+  },
+  "author": "Alejandro Morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unciafidelis/express_basic/issues"
+  },
+  "homepage": "https://github.com/unciafidelis/express_basic#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
